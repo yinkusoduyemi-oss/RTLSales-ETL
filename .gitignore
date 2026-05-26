@@ -1,0 +1,6 @@
+echo ".env" >> .gitignore
+echo "*.csv" >> .gitignore
+echo "__pycache__/" >> .gitignore
+echo "*.pyc" >> .gitignore
+echo "etl-retail-env/" >> .gitignore
+echo ".DS_Store" >> .gitignore
